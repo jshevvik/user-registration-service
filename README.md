@@ -6,7 +6,7 @@ Mini-proyecto para practicar **JUnit 5 + Mockito**, **cobertura con JaCoCo** y *
 
 ## Tecnologías
 - Java 17 · Maven
-- JUnit 5, Mockito, (opcional) AssertJ
+- JUnit 5, Mockito
 - JaCoCo (informe HTML)
 - GitHub Actions (build + tests + cobertura)
 
